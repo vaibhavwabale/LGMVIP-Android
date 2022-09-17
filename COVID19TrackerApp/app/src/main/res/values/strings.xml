@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">COVID-19 Tracker App</string>
+    <string name="LGM">LetsGrowMore</string>
+    <string name="city">City</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="stats">All State/City Stats</string>
+    <string name="recovered">Recovered</string>
+    <string name="active">Active</string>
+    <string name="deceased">Deceased</string>
+    <string name="maharashtra">Maharashtra</string>
+</resources>
